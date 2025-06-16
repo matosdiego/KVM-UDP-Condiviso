@@ -1,0 +1,6 @@
+SHA256 checksums for KVM-UDP-Condiviso installers:
+
+59803a6e38a07f8201108fa352669d37d270a4736605b1e676a884bc2eff49a6  KVM-UDP-Condiviso.rpm
+484258a0d0a4dfa21280ca520ebb4f163708c662bb04dbd511fca7cfa65c490b  KVM-UDP-Condiviso.exe
+1382bc239daaca91e31f848e80bd16301bfcf5c8bdfd7ad3b4ad2abdd034fe9e  KVM-UDP-Condiviso.dmg
+51bf14727494691f944bac3e986d74f5779c90380dd4a9c39ad15e40d6ca4d03  KVM-UDP-Condiviso-portable.zip
